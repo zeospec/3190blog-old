@@ -15,7 +15,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "string", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Date", name: "date", widget: "date", format: "YYYY-MM-DD"}
-      - {label: "Categories", name: "categories", widget: "markdown"}
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        allow_add: true
+        default: ["Option1,Option2"]
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Image", name: "image", widget: "string", tagname: "h2"}
       - {label: "Image-sm", name: "image-sm", widget: "string", tagname: "h2"}

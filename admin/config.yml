@@ -25,7 +25,3 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image-sm", name: "image-sm", widget: "string", tagname: "h2"}
       - {label: "Body", name: "body", widget: "markdown"}
       
-  - name: "settings"
-    label: "Settings"
-    folder: "_posts"
-    delete: false

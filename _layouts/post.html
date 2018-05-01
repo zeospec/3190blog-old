@@ -32,7 +32,7 @@ layout: default
   <section class="profile">
     <div class="profile__card">
       <div class="profile__img">
-        <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
+        <figure class="absolute-bg" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append : site.profile_img }}');"></figure>
       </div>
       <div class="profile__container">
         <p>{{ site.profile }}</p>

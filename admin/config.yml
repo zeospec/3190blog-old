@@ -27,4 +27,5 @@ collections: # A list of collections the CMS should be able to edit
       
   - name: "settings"
     label: "Settings"
+    folder: "_posts"
     delete: false

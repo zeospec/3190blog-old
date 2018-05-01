@@ -8,7 +8,7 @@ google_analytics:
 # SEO settings
 title: Rotaract 3190 | Blog
 description: Take a Step Towards change!!!
-url: "https://www.rotaract3190.org/"
+url: "https://blog.rotaract3190.org"
 twitter_username: 
 default_img: 
 
@@ -21,6 +21,7 @@ social:
   facebook: https://www.facebook.com/RIDist3190/
   instagram: https://www.instagram.com/rotaract3190/
   github: https://github.com/Rotaract3190/
+  rss: https://blog.rotaract3190.org/feed.xml/
   
 
 # Build settings

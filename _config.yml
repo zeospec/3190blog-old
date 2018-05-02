@@ -4,6 +4,8 @@ baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
+timezone: Asia/Kolkata
+
 
 # SEO settings
 title: Rotaract 3190 | Blog

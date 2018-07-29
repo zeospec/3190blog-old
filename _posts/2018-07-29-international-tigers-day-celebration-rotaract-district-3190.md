@@ -25,6 +25,7 @@ The event kicked off with a **nature walk** at Bannerghatta National park led by
 </figure>
 The Nature Trail gave us a insight about tiger habitat and it's conservation and the common threats for the same.
 
+
 Post the walk the team headed to the Bannerghatta Biological Park where an exclusive **Safari** was organised for all the participants of the event. This was followed by a formal event at the zoo auditorium where all the participants were given a brief introduction regarding conservation and habitat protection. The Dignitaries who graced the occasion were **Mr Suresh (SFS), Mr Gokul(IFS), Ms Seema Khaleel, Mr Avinash Krishnan(Research Officer Arocha), Ms Amala (Education officer)**.
 
 <figure>
@@ -46,6 +47,11 @@ There was a team wise **poster making competition** with the theme save tigers, 
 
 The entire program was planned by Bannerghatta National Park and Bannerghatta Biological park in association with the **Rotaract District 3190** and it was a memorable experience. Rotaractors both from Bangalore and Ramnagar participated in this event. Special thanks to **Mr Ganesh(RFO- BNP)** and **Ms Amala(Education officer)** and **ZRR Rtr.Krishnarjun** for successfully organising this event.
 
+<figure>
+<figcaption>Gallery</figcaption>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/163308966@N06/albums/72157693766774680" title="International Tigers Day Celebration Rotaract District 3190"><img src="https://farm1.staticflickr.com/936/43658577552_48b011c4a1_z.jpg" width="640" height="427" alt="International Tigers Day Celebration Rotaract District 3190"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-For more visit: https://rotaract3190.org
+</figure>
+<figure>
+  <img src="https://farm1.staticflickr.com/856/29836702388_78e03f3004_z.jpg" width="640" height="640" alt="1tigersday">
+  <figcaption>For more visit: https://rotaract3190.org</figcaption>
+</figure>

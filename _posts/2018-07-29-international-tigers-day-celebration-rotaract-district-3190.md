@@ -51,7 +51,10 @@ The entire program was planned by Bannerghatta National Park and Bannerghatta Bi
 <figcaption>Gallery</figcaption>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/163308966@N06/albums/72157693766774680" title="International Tigers Day Celebration Rotaract District 3190"><img src="https://farm1.staticflickr.com/936/43658577552_48b011c4a1_z.jpg" width="640" height="427" alt="International Tigers Day Celebration Rotaract District 3190"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
+
 <figure>
   <img src="https://farm1.staticflickr.com/856/29836702388_78e03f3004_z.jpg" width="640" height="640" alt="1tigersday">
   <figcaption>For more visit: https://rotaract3190.org</figcaption>
 </figure>
+
+<blockquote>Participating Clubs:</blockquote> Rotaract Bangalore West, RC Shantiniketan(Ramnagar), Rotaract club of Koramangala, Rotaract club of GEMS B School, Rotaract club of BIT, Rotaract club of Golden Rock, Rotaract club RIMS & Rotaract club of Bangalore Seshadripuram.

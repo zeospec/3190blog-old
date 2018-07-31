@@ -26,7 +26,7 @@ The event kicked off with a **nature walk** at Bannerghatta National park led by
 The Nature Trail gave us a insight about tiger habitat and it's conservation and the common threats for the same.
 
 
-Post the walk the team headed to the Bannerghatta Biological Park where an exclusive **Safari** was organised for all the participants of the event. This was followed by a formal event at the zoo auditorium where all the participants were given a brief introduction regarding conservation and habitat protection. The Dignitaries who graced the occasion were **Mr Suresh (SFS), Mr Gokul(IFS), Ms Seema Khaleel, Mr Avinash Krishnan(Research Officer Arocha), Ms Amala (Education officer)**.
+Post the walk the team headed to the Bannerghatta Biological Park where an exclusive **Safari** was organised for all the participants of the event. This was followed by a formal event at the zoo auditorium where all the participants were given a brief introduction regarding conservation and habitat protection. The Dignitaries who graced the occasion were **Mr Suresh (SFS), Mr Gokul(IFS), Ms Seema Khaleel, Mr Avinash Krishnan(Research Officer Arocha), Mr Kushallappa, Ms Amala (Education officer)**.
 
 <figure>
 <img src="https://farm1.staticflickr.com/854/29835218358_8b0690b7f3_z.jpg" width="640" height="427" alt="20180728103409_IMG_4072">

@@ -57,4 +57,4 @@ The entire program was planned by Bannerghatta National Park and Bannerghatta Bi
   <figcaption>For more visit: https://rotaract3190.org</figcaption>
 </figure>
 
-<blockquote>Participating Clubs:</blockquote> Rotaract Bangalore West, RC Shantiniketan(Ramnagar), Rotaract club of Koramangala, Rotaract club of GEMS B School, Rotaract club of BIT, Rotaract club of Golden Rock, Rotaract club RIMS & Rotaract club of Bangalore Seshadripuram.
+<blockquote>Participating Clubs:</blockquote> Rotaract Bangalore West, RC Shantiniketan(Ramnagar), Rotaract club of Koramangala, Rotaract club of GEMS B School, Rotaract club of BIT, Rotaract club of Golden Rock, Rotaract club RIMS, Rotaract Bangalore Kempegowda & Rotaract club of Bangalore Seshadripuram.

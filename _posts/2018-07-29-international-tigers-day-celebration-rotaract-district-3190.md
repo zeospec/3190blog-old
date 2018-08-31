@@ -21,7 +21,7 @@ There were a total of **100 participants** in this event(Including school kids a
 
 The event kicked off with a **nature walk** at Bannerghatta National park led by the very enthusiastic **RFO Mr Ganesh** on a bright Saturday morning.
 <figure>
-  <img src="https://farm1.staticflickr.com/852/43658575242_6544ac3f79_z.jpg" width="640" height="427" alt="20180728093628_IMG_4059">
+  <img src="https://farm1.staticflickr.com/852/43658575242_6544ac3f79_z.jpg" width="100%" height="auto" alt="20180728093628_IMG_4059">
 </figure>
 The Nature Trail gave us a insight about tiger habitat and it's conservation and the common threats for the same.
 
@@ -29,7 +29,7 @@ The Nature Trail gave us a insight about tiger habitat and it's conservation and
 Post the walk the team headed to the Bannerghatta Biological Park where an exclusive **Safari** was organised for all the participants of the event. This was followed by a formal event at the zoo auditorium where all the participants were given a brief introduction regarding conservation and habitat protection. The Dignitaries who graced the occasion were **Mr Suresh (SFS), Mr Gokul(IFS), Ms Seema Khaleel, Mr Avinash Krishnan(Research Officer Arocha), Mr Kushallappa, Ms Amala (Education officer)**.
 
 <figure>
-<img src="https://farm1.staticflickr.com/854/29835218358_8b0690b7f3_z.jpg" width="640" height="427" alt="20180728103409_IMG_4072">
+<img src="https://farm1.staticflickr.com/854/29835218358_8b0690b7f3_z.jpg" width="100%" height="auto" alt="20180728103409_IMG_4072">
 </figure>
 
 A **video on wildlife conservation** was screened, followed by which there were interactive panel discussions.
@@ -41,7 +41,7 @@ A **video on wildlife conservation** was screened, followed by which there were 
 
 There was a team wise **poster making competition** with the theme save tigers, save the planet which was won by **RC RIMS**.
 <figure>
-  <img src="https://farm1.staticflickr.com/940/42989474624_5c96e92c34_z.jpg" width="640" height="427" alt="20180728135132_IMG_4267"></a>
+  <img src="https://farm1.staticflickr.com/940/42989474624_5c96e92c34_z.jpg" width="100%" height="auto" alt="20180728135132_IMG_4267"></a>
   <figcaption>Poster Making Competition</figcaption>
 </figure>
 
@@ -49,11 +49,11 @@ The entire program was planned by Bannerghatta National Park and Bannerghatta Bi
 
 <figure>
 <figcaption>Gallery</figcaption>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/163308966@N06/albums/72157693766774680" title="International Tigers Day Celebration Rotaract District 3190"><img src="https://farm1.staticflickr.com/936/43658577552_48b011c4a1_z.jpg" width="640" height="427" alt="International Tigers Day Celebration Rotaract District 3190"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/163308966@N06/albums/72157693766774680" title="International Tigers Day Celebration Rotaract District 3190"><img src="https://farm1.staticflickr.com/936/43658577552_48b011c4a1_z.jpg" width="100%" height="auto" alt="International Tigers Day Celebration Rotaract District 3190"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
 <figure>
-  <img src="https://farm1.staticflickr.com/856/29836702388_78e03f3004_z.jpg" width="640" height="640" alt="1tigersday">
+  <img src="https://farm1.staticflickr.com/856/29836702388_78e03f3004_z.jpg" width="100%" height="auto" alt="1tigersday">
   <figcaption>For more visit: https://rotaract3190.org</figcaption>
 </figure>
 

@@ -38,7 +38,6 @@ A **video on wildlife conservation** was screened, followed by which there were 
   <iframe width="100%" height="315" src="https://www.youtube.com/embed/hioV6zuNxik?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <figcaption>Wildlife conservation Video</figcaption>
 </figure>
-
 There was a team wise **poster making competition** with the theme save tigers, save the planet which was won by **RC RIMS**.
 <figure>
   <img src="https://farm1.staticflickr.com/940/42989474624_5c96e92c34_z.jpg" width="100%" height="auto" alt="20180728135132_IMG_4267"></a>

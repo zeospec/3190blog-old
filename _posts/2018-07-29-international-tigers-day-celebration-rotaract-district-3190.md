@@ -3,14 +3,23 @@ layout: post
 title: International Tigers Day Celebration Rotaract District 3190
 date: '2018-07-29'
 categories:
-  - AnimalConservation
-  - zeospec
+  - tigers
 description: >-
   The Nature Trail gave Rotaractors of Rotaract District 3190 an insight about
   tiger habitat and it's conservation and the common threats for the same, on
   the occasion of International Tigers Day.
 image: 20180728110322_img_4202.jpg
 image-sm: 20180728110322_img_4202.jpg
+author:
+  name: 
+  profile: 
+  image: 
+  email: 
+  social:
+    phone: 
+    facebook: 
+    instagram: 
+    github: 
 ---
 <blockquote>Happy International Tiger Day🐯🐅</blockquote>
 

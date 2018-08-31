@@ -32,18 +32,37 @@ layout: default
   <section class="profile">
     <div class="profile__card">
       <div class="profile__img">
+
+        {% if page.author.image %}
+        <figure class="absolute-bg" style="background-image: url('{{ "/assets/img/authors/" | prepend: site.baseurl | append : page.author.image }}');"></figure>
+        {% else %}
         <figure class="absolute-bg" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append : site.profile_img }}');"></figure>
+        {% endif %}
+
       </div>
+
       <div class="profile__container">
-        <p>{{ site.profile }}</p>
-        {% if site.email or site.social %}
+        <p>{% if page.author.name %}<i class="fa fa-lg fa-user-o"> {{ page.author.name }}</i><br><br>{{ page.author.profile }}{% else %}{{ site.profile }}{% endif %}</p>
+        {% if site.email or site.social or page.author.email or page.author.social %}
           <ul class="profile__social">
-            {% if site.email %}
-              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+            {% if page.author.email or page.author.social and page.author.name %}
+              {% if page.author.email %}
+                <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ page.author.email }}"></a></li>
+              {% endif %}
+              {% for social in page.author.social %}
+                <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+              {% endfor %}
+            
+            {% else %}
+
+              {% if site.email %}
+                <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+              {% endif %}
+              {% for social in site.social %}
+                <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+              {% endfor %}
+
             {% endif %}
-            {% for social in site.social %}
-              <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
-            {% endfor %}
           </ul>
         {% endif %}
       </div>

@@ -33,7 +33,7 @@ layout: default
     <div class="profile__card">
       <div class="profile__img">
 
-        {% if page.author.image %}
+        {% if page.author.image and page.author.name %}
         <figure class="absolute-bg" style="background-image: url('{{ "/assets/img/authors/" | prepend: site.baseurl | append : page.author.image }}');"></figure>
         {% else %}
         <figure class="absolute-bg" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append : site.profile_img }}');"></figure>

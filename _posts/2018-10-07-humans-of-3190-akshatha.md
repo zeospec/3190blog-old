@@ -3,7 +3,7 @@ layout: post
 title: Humans of 3190 | Rtr. Akshatha S B
 date: '2018-10-07'
 categories:
-  - Humans of 3199
+  - Humans-of-3199
 
 description: >-
   Humans of 3190 featuring the story of Rtr. Akshatha S B

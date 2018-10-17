@@ -4,7 +4,7 @@ layout: default
 <section class="previews">
   <div>
     {% for post in paginator.posts %}
-      <figure class="absolute-bg preview__img" style="background-image: url('{{ "/assets/img/" | append: post.image }}');"></figure>
+      <figure class="absolute-bg preview__img" style="background-image: url('{% if post.image-preview %}{{ "/assets/img/" | append: post.image-preview }}{% else %}{{ "/assets/img/" | append: post.image }}{% endif %}');"></figure>
     {% endfor %}
     <div class="previews__container">
       <span>Welcome to</span>

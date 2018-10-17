@@ -9,6 +9,7 @@ description: >-
   Humans of 3190 featuring the story of Rtr. Akshatha S B
 image: humans.jpg
 image-sm: Akshatha.jpg
+image-preview: Akshatha.jpg
 author:
   name: 
   profile: 

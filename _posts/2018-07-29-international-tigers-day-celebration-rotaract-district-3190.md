@@ -10,6 +10,7 @@ description: >-
   the occasion of International Tigers Day.
 image: 20180728110322_img_4202.jpg
 image-sm: 20180728110322_img_4202.jpg
+image-preview: 20180728110322_img_4202.jpg
 author:
   name: 
   profile: 

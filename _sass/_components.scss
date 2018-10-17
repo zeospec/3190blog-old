@@ -383,6 +383,8 @@
  * Post
  */
 .post {
+  text-align: justify;
+  text-justify: auto;
   width: 90%;
   max-width: $mq-md;
   margin: 0 auto;

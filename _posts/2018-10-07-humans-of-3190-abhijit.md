@@ -3,7 +3,7 @@ layout: post
 title: Humans of 3190 | Edition 2 | Rtr. Abhijit Raghunathan | RaC Bangalore
 date: '2018-10-21'
 categories:
-  - Humans-of-3199
+  - Humans-of-3190
 
 description: >-
   Humans of 3190 featuring the story of Rtr. Abhijit Raghunathan

@@ -24,7 +24,7 @@ author:
 <blockquote>Humans of 3190 | Rtr. Ashwin Bangar | Rotaract Bangalore Vijaynagar</blockquote>
 
 <figure>
-<img src="https://farm5.staticflickr.com/4851/45880855621_a73aceef14_z.jpg" width="100%" height="auto" alt="Abhijit">
+<img src="https://farm5.staticflickr.com/4851/45880855621_a73aceef14_z.jpg" width="100%" height="auto" alt="Ashwin Bangar">
 </figure>
 
 “My sister and I lived with my Grandpa and a year ago, he passed away. The day that this happened still haunts me. I was at work when I got a call from the hospital and had to rush there. I saw my sister crying and at that moment I couldn’t react. I just froze for an hour or so and this was something that I cannot comprehend till date. Grandpa was someone who always used to help people and he was the kind of man who believed in service and that is what inspires me to do things. I always try to follow his footsteps and that was one of the reasons why I joined Rotaract as well. He had opened a school for orphans with one of his acquaintances which was run and maintained by the two of them. Grandpa never worked towards recognition and that is something I strongly believe as well. Working towards happiness of others and finding joy in that is a thought that I respect a lot. One should always be happy about doing something otherwise it is pointless, I believe.

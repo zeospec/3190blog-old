@@ -3,7 +3,6 @@ layout: post
 title: International Tigers Day Celebration Rotaract District 3190
 date: '2018-07-29'
 categories:
-  - tigers
   - zonal-event
 description: >-
   The Nature Trail gave Rotaractors of Rotaract District 3190 an insight about

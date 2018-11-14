@@ -24,7 +24,7 @@ author:
 <blockquote>Humans of 3190 | Rtr. Abhay Lohia | Rotaract Club of Surana College</blockquote>
 
 <figure>
-<img src="https://farm5.staticflickr.com/4863/32009774968_6bba6ac8a2_z.jpg" width="100%" height="auto" alt="Abhijit">
+<img src="https://farm5.staticflickr.com/4863/32009774968_6bba6ac8a2_z.jpg" width="100%" height="auto" alt="Abhay">
 </figure>
 
 “It was when I was seven years old that I lost my 4 year old younger sister to polio. I was very young. I couldn’t comprehend the concepts of life and death. All I did was, wait for her every day. I always dreamt of becoming a doctor so that I could help my sister get rid of the stupid disease. Another thing is that, as a kid I was always bullied. People used to call me names either because of my height or because of my skin complexion and this had gone on throughout my school life. Now you must be wondering why is this guy sharing all of this with us?

@@ -6,7 +6,7 @@ categories:
   - Humans-of-3190
 
 description: >-
-  Humans of 3190 featuring the story of Rtr. Abhay Lohia
+  Humans of 3190 featuring the story of Rtr. Afifa Kauser
 image: humans.jpg
 image-sm: afifa.jpg
 image-preview: afifa.jpg
@@ -24,7 +24,7 @@ author:
 <blockquote>Humans of 3190 | Rtr. Afifa Kauser | Rotaract Club of Koramangala</blockquote>
 
 <figure>
-<img src="https://farm5.staticflickr.com/4820/32009884818_211dd206f3_z.jpg" width="100%" height="auto" alt="Abhijit">
+<img src="https://farm5.staticflickr.com/4820/32009884818_211dd206f3_z.jpg" width="100%" height="auto" alt="Afifa">
 </figure>
 
 “In 2014 we (my friends and I) visited Nepal and Darjeeling (which was a college trip) and stayed there for four days. During that time, we absolutely fell in love with the people there and with their kindness and hospitality. In April 2015, the earthquake that struck Nepal was all over the news and evidently the people there suffered a great loss. When we heard about this we were completely disheartened. It was a painful and shocking news. This disaster took place on the last week of April and May 2nd was my eighteenth birthday.

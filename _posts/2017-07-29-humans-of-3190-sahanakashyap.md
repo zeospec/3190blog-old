@@ -24,7 +24,7 @@ author:
 <blockquote>Humans of 3190 | Rtr. Sahana Kashyap | Rotaract Bangalore West</blockquote>
 
 <figure>
-<img src="https://farm5.staticflickr.com/4917/45831243862_e9edb30f0b_z.jpg" width="100%" height="auto" alt="Abhijit">
+<img src="https://farm5.staticflickr.com/4917/45831243862_e9edb30f0b_z.jpg" width="100%" height="auto" alt="Sahana">
 </figure>
 
 “Back then, when I was in school, I had to travel by bus every day which meant a good five minutes’ walk to the bus stop. On that path, was this hut where an old homeless woman used to live with a stray dog. She used to beg for a living and sometimes could not even afford food. One day I saw the dog digging into a pile of dump that is stacked next to that hut. It took out what looked like thrown away food and then quickly rushed to the woman to hand her over the food.

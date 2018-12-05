@@ -20,6 +20,10 @@ author:
     instagram: https://www.instagram.com/krishnarjuncn/
 ---
 
+<figure>
+<img src="/assets/img/wildlifeconservation2018.jpeg" width="100%" height="auto" alt="Abhijit">
+</figure>
+
 4th December is observed as wildlife conservation day. 
 
 Crimes against wildlife(Poaching,Hunting animals) is on the rise in the world and it becomes our moral responsibility to do our bit in preventing this.

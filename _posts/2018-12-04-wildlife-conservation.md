@@ -21,7 +21,7 @@ author:
 ---
 
 <figure>
-<img src="/assets/img/wildlifeconservation2018.jpeg" width="100%" height="auto" alt="Abhijit">
+<img src="/assets/img/wildlifeconservation2018.jpeg" width="100%" height="auto" alt="Wild Life Conservation">
 </figure>
 
 4th December is observed as wildlife conservation day. 

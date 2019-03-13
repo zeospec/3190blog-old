@@ -56,7 +56,7 @@ Show the world how Rotaract is making a difference during our World Rotaract Wee
 - Fill the universally accessible World Rotaract Week Certificate of Recognition.
 - Obtain signatures of the sponsor Rotary Club President and the Rotaract club president.
 
-<h5>Download Rotaract Club Certificate:</h5> [Click Here](https://my.rotary.org/en/document/world-rotaract-week-certificate-recognition){:target="_blank"}
+<h5>Download World Rotaract Week Certificate of Recognition:</h5> [Click Here](https://my.rotary.org/en/document/world-rotaract-week-certificate-recognition){:target="_blank"}
 
 <h4>4. The Rotaract handbook:</h4> 
 Rotaract handbook acts as a general guide to ensure the smooth running of Rotaract clubs. It consists of the all-round details of all the What, Why, When and How of Rotaract. 
